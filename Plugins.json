@@ -2,5 +2,9 @@
     "Media": {
         "url": "https://github.com/Core447/MediaPlugin",
         "verified-commit": "ee4bedefac62fcf605894cb2ac75181071bc2473"
+    },
+    "OS": {
+        "url": "https://github.com/Core447/OSPlugin",
+        "verified-commit": "4c3eec2163281f442046198f90491e2b540f4ecf"
     }
 }
