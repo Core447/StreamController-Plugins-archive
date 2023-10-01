@@ -1,10 +1,10 @@
 {
     "Media": {
         "url": "https://github.com/Core447/MediaPlugin",
-        "verified-commit": "ee4bedefac62fcf605894cb2ac75181071bc2473"
+        "verified-commit": "4f69afd55a0dd11f64e3e0f6ce3f351196cd83df"
     },
     "OS": {
         "url": "https://github.com/Core447/OSPlugin",
-        "verified-commit": "59b8ff522865c7f871b64e9d0b2cbe084eadc5aa"
+        "verified-commit": "891a9317efc8697f895d0f59bcce0d4bf6d7696a"
     }
 }
